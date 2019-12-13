@@ -1,0 +1,2 @@
+core_battery
+coreless_battery
